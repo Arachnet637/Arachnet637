@@ -1,6 +1,6 @@
 
 Arachnet637  is ein  Freelancer im Bereichen IOT Erlang/ Java /C++ ->
-Hardware und Software  Design sowie Research im  Bereich der photonik.
+Hardware und Software  Design
 
 
 <!---
